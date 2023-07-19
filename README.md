@@ -11,4 +11,4 @@ Simon is a game of short-term memory skill invented by Ralph H. Baer and Howard 
 
 ## To Run
 
-https://shubham-kumar-sahoo.github.io/Simon-Game/
+To play the online Simon Game, click on the following link : https://shubham-kumar-sahoo.github.io/Simon-Game/
